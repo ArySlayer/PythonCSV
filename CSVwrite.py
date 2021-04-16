@@ -5,3 +5,4 @@ with open('NewCSV.csv', mode='w', newline='') as employee_file:
 
     employee_writer.writerow(['John Smith', 'Accounting', 'November'])
     employee_writer.writerow(['Erica Meyers', 'IT', 'March'])
+    employee_writer.writerow(['Eric Walker', 'IT', 'April'])
